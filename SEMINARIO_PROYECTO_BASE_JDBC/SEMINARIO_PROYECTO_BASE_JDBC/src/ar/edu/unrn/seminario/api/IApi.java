@@ -11,7 +11,7 @@ public interface IApi {
 	void registrarUsuario(String username, String password, String email, String nombre, Integer rol);
 
 	UsuarioDTO obtenerUsuario(String username);
-	aaaaaaaaaaaa
+	// aaaaaaaaaaaa
 	void eliminarUsuario(String username);
 
 	List<RolDTO> obtenerRoles();
