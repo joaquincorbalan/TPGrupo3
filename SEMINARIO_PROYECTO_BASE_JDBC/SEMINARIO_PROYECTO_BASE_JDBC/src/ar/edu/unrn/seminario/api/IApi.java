@@ -12,6 +12,8 @@ public interface IApi {
 
 	UsuarioDTO obtenerUsuario(String username);
 
+	
+	
 	void eliminarUsuario(String username);
 
 	List<RolDTO> obtenerRoles();
