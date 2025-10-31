@@ -3,10 +3,10 @@ package ar.edu.unrn.seminario.api;
 import java.util.ArrayList;
 import java.util.List;
 
-import ar.edu.unrn.seminario.accesos.RolDAOJDBC;
-import ar.edu.unrn.seminario.accesos.RolDao;
-import ar.edu.unrn.seminario.accesos.UsuarioDAOJDBC;
-import ar.edu.unrn.seminario.accesos.UsuarioDao;
+import ar.edu.unrn.seminario.acesos.RolDAOJDBC;
+import ar.edu.unrn.seminario.acesos.RolDao;
+import ar.edu.unrn.seminario.acesos.UsuarioDAOJDBC;
+import ar.edu.unrn.seminario.acesos.UsuarioDao;
 import ar.edu.unrn.seminario.dto.RolDTO;
 import ar.edu.unrn.seminario.dto.UsuarioDTO;
 import ar.edu.unrn.seminario.modelo.Rol;
