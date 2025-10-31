@@ -1,1 +1,4 @@
 /ar/
+/bin/
+*.class
+
