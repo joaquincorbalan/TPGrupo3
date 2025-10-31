@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="SEMINARIO_PROYECTO_BASE_JDBC/SEMINARIO_PROYECTO_BASE_JDBC/src"/>
-	<classpathentry kind="output" path="SEMINARIO_PROYECTO_BASE_JDBC/SEMINARIO_PROYECTO_BASE_JDBC/bin"/>
+	<classpathentry kind="src" path="FRONTED"/>
+	<classpathentry kind="src" path="BACKEND"/>
+	<classpathentry kind="src" path="COMMONS"/>
+	<classpathentry kind="src" path="ENTITIES"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/marti/OneDrive/Documents/GitHub/TPGrupo3/BIN/mysql-connector-java-5.1.48.jar"/>
+	<classpathentry kind="output" path="BIN"/>
 </classpath>
